@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ms-toolkit",
+    name="gaolab_mstool",
     version="0.0.1",
     author="Yu (Tom) Gao",
     author_email="yugao@uic.edu",
-    description="ms-tool - powerful tools for mass spectrometry data processing",
+    description="gaolab_mstool- - powerful tools for mass spectrometry data processing",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/Gaolaboratory/ms-tool",
