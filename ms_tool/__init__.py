@@ -15,8 +15,8 @@ del _hard_dependencies, _dependency
 
 from ms_tool import *
 from ms_tool.expasy_rules import cleavage_rules
-from raw_file_tool import ThermoRAW
-from mzml_file_tool import convert_mzml_to_parquet, read_mzml, base64_decoder, base64_encoder, mass_bin_function, pretty_print_xml_structure
+from ms_tool.raw_file_tool import ThermoRAW
+from ms_tool.mzml_file_tool import convert_mzml_to_parquet, read_mzml, base64_decoder, base64_encoder, mass_bin_function, pretty_print_xml_structure
 
 
 __doc__ = """

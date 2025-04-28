@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ms-tool",
+    name="ms-toolkit",
     version="0.0.1",
     author="Yu (Tom) Gao",
     author_email="yugao@uic.edu",

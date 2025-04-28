@@ -3,12 +3,12 @@ requires = ["setuptools >= 77.0.3"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ms-tool"
+name = "ms-toolkit"
 version = "0.0.1"
 authors = [
   { name="Yu (Tom) Gao", email="yugao@uic.edu" },
 ]
-description = "ms-tool - powerful tools for mass spectrometry data processing"
+description = "ms-toolkit -  tools for mass spectrometry data processing"
 readme = "README.md"
 keywords = ["mass spectrometry", "proteomics", "mzml", "metabolomics"]
 dependencies = [
